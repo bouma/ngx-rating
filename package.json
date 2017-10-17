@@ -1,7 +1,7 @@
 {
   "name": "ngx-rating",
-  "version": "0.0.9",
-  "description": "Simple rating control for your angular2 applications using bootstrap3.",
+  "version": "0.0.10",
+  "description": "Simple rating control for your angular4 applications using bootstrap3.",
   "license": "MIT",
   "readmeFilename": "README.md",
   "private": true,
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pleerock/ngx-rating.git"
+    "url": "https://github.com/bouma/ngx-rating.git"
   },
   "bugs": {
-    "url": "https://github.com/pleerock/ngx-rating/issues"
+    "url": "https://github.com/bouma/ngx-rating/issues"
   },
   "tags": [
     "rating",
@@ -23,17 +23,17 @@
     "angular2-rating"
   ],
   "peerDependencies": {
-    "@angular/core": "^2.0.0",
-    "@angular/forms": "^2.0.0"
+    "@angular/core": "^4.0.0",
+    "@angular/forms": "^4.0.0"
   },
   "devDependencies": {
-    "@angular/common": "^2.4.3",
-    "@angular/compiler": "^2.4.3",
-    "@angular/compiler-cli": "^2.4.3",
-    "@angular/core": "^2.4.3",
-    "@angular/forms": "^2.4.3",
-    "@angular/platform-browser": "^2.4.3",
-    "@angular/platform-browser-dynamic": "^2.4.3",
+    "@angular/common": "^4.4.3",
+    "@angular/compiler": "^4.4.3",
+    "@angular/compiler-cli": "^4.4.3",
+    "@angular/core": "^4.4.3",
+    "@angular/forms": "^4.4.3",
+    "@angular/platform-browser": "^4.4.3",
+    "@angular/platform-browser-dynamic": "^4.4.3",
 
     "@types/node": "^7.0.0",
     "bootstrap": "^3.3.7",
